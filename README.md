@@ -154,3 +154,4 @@ The AgriGenius plant disease detection system is designed to:
 5. **Integration with IoT**: Connect with agricultural IoT devices for automated monitoring and detection.
 
 ---
+Team project with Aaryaman Kattali [https://github.com/Aaryaman-Kattali] and Vaishnavi Dumbre [https://github.com/vaishnavidumbre20]
